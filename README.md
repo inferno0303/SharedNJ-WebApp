@@ -38,39 +38,39 @@ SharedNJ-Frontend目录，标准的Webpack项目，基于umi.js脚手架，收�
 
 ### 登录页
 
-![0-登录页](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/4-管理员.5ioqio4yovk0.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/0-登录页.6eua26klfg40.jpg" alt="0-登录页" style="zoom: 33%;" />
 
 ### 用户侧功能
 
-![1-用户侧-用户中心](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-用户中心.rxmmzg70o28.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-用户中心.rxmmzg70o28.jpg" alt="1-用户侧-用户中心" style="zoom:33%;" />
 
 [^1-用户侧-用户中心]: 1-用户侧-用户中心
 
-![1-用户侧-商品列表](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-商品列表.5v6iq6fo1ao0.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-商品列表.5v6iq6fo1ao0.jpg" alt="1-用户侧-商品列表" style="zoom:33%;" />
 
 [^1-用户侧-商品列表]: 1-用户侧-商品列表
 
-![1-用户侧-商品详情](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-商品详情.5pg1hdfde400.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-商品详情.5pg1hdfde400.jpg" alt="1-用户侧-商品详情" style="zoom:33%;" />
 
 [1-用户侧-商品详情]: 1-用户侧-商品详情
 
-![1-用户侧-订单结算页](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-订单结算页.493u0v166940.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-订单结算页.493u0v166940.jpg" alt="1-用户侧-订单结算页" style="zoom:33%;" />
 
-![1-用户侧-订单提交成功](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-订单提交成功.20mj3r601c80.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-订单提交成功.20mj3r601c80.jpg" alt="1-用户侧-订单提交成功" style="zoom:33%;" />
 
-![1-用户侧-需求列表](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-需求列表.20vze92tknwg.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-需求列表.20vze92tknwg.jpg" alt="1-用户侧-需求列表" style="zoom:33%;" />
 
 ### 商家侧功能
 
-![2-商家中心](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/2-商家中心.4i46a24kl180.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/2-商家中心.4i46a24kl180.jpg" alt="2-商家中心" style="zoom:33%;" />
 
-![2-商家处理订单](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/2-商家处理订单.7y912sobi9o.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/2-商家处理订单.7y912sobi9o.jpg" alt="2-商家处理订单" style="zoom:33%;" />
 
 ### 配送员侧功能
 
-![3-配送员中心](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/3-配送员中心.5bl0x6u87ww0.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/3-配送员中心.5bl0x6u87ww0.jpg" alt="3-配送员中心" style="zoom:33%;" />
 
 ### 管理员侧功能
 
-![4-管理员](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/4-管理员.5ioqio4yovk0.jpg)
+<img src="https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/4-管理员.5ioqio4yovk0.jpg" alt="4-管理员" style="zoom:33%;" />
 
