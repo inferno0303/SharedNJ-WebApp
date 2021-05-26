@@ -42,37 +42,33 @@ SharedNJ-Frontend目录，标准的Webpack项目，基于umi.js脚手架，收�
 
 ### 登录页
 
-![0-登录页](D:\Projects\todo\SharedNJ-WebApp\asserts\0-登录页.jpg)
+![0-登录页](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/4-管理员.5ioqio4yovk0.jpg)
 
 ### 用户侧功能
 
-![1-用户侧-用户中心](D:\Projects\todo\SharedNJ-WebApp\asserts\1-用户侧-用户中心.jpg)
+![1-用户侧-用户中心](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-用户中心.rxmmzg70o28.jpg)
 
+![1-用户侧-商品列表](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-商品列表.5v6iq6fo1ao0.jpg)
 
+![1-用户侧-商品详情](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-商品详情.5pg1hdfde400.jpg)
 
-![1-用户侧-商品列表](D:\Projects\todo\SharedNJ-WebApp\asserts\1-用户侧-商品列表.jpg)
+![1-用户侧-订单结算页](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-订单结算页.493u0v166940.jpg)
 
+![1-用户侧-订单提交成功](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-订单提交成功.20mj3r601c80.jpg)
 
-
-![1-用户侧-商品详情](D:\Projects\todo\SharedNJ-WebApp\asserts\1-用户侧-商品详情.jpg)
-
-![1-用户侧-订单结算页](D:\Projects\todo\SharedNJ-WebApp\asserts\1-用户侧-订单结算页.jpg)
-
-![1-用户侧-订单提交成功](D:\Projects\todo\SharedNJ-WebApp\asserts\1-用户侧-订单提交成功.jpg)
-
-![1-用户侧-需求列表](D:\Projects\todo\SharedNJ-WebApp\asserts\1-用户侧-需求列表.jpg)
+![1-用户侧-需求列表](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/1-用户侧-需求列表.20vze92tknwg.jpg)
 
 ### 商家侧功能
 
-![2-商家中心](D:\Projects\todo\SharedNJ-WebApp\asserts\2-商家中心.jpg)
+![2-商家中心](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/2-商家中心.4i46a24kl180.jpg)
 
-![2-商家处理订单](D:\Projects\todo\SharedNJ-WebApp\asserts\2-商家处理订单.jpg)
+![2-商家处理订单](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/2-商家处理订单.7y912sobi9o.jpg)
 
 ### 配送员侧功能
 
-![3-配送员中心](D:\Projects\todo\SharedNJ-WebApp\asserts\3-配送员中心.jpg)
+![3-配送员中心](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/3-配送员中心.5bl0x6u87ww0.jpg)
 
 ### 管理员侧功能
 
-![4-管理员](D:\Projects\todo\SharedNJ-WebApp\asserts\4-管理员.jpg)
+![4-管理员](https://cdn.jsdelivr.net/gh/yangxu770409504/assets@main/20210527/4-管理员.5ioqio4yovk0.jpg)
 
