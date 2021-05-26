@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--这是 mybatis 的 mapper 配置，用于自动实现 dao 层的 interface -->
+<mapper namespace="com.teemo.sprinboot06mybatiscrud.mapper.UsersMapper">
+
+    <select id="LoginAuthentication" resultType="com.teemo.sprinboot06mybatiscrud.entity.Users">
+        SELECT * FROM Users WHERE username=#{username} AND password=#{password};
+    </select>
+
+    <update id="updateLastLoginTime">
+        UPDATE Users SET last_login=#{dateTime} WHERE username=#{username} AND password=#{password};
+    </update>
+
+</mapper>

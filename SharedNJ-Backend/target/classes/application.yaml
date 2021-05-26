@@ -1,0 +1,22 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    username: root
+    password: Teemo1234
+    url: jdbc:mysql://go.imyx.top:3306/shared_nj?serverTimezone=Asia/Shanghai&characterEncoding=utf-8
+    hikari:
+      max-lifetime: 30000
+      minimum-idle: 3
+      maximum-pool-size: 10
+      connection-test-query: SELECT 1
+      connection-timeout: 5000
+      validation-timeout: 5000
+mybatis:
+  # 指定全局配置文件位置
+#  config-location: classpath:mybatis/mybatis-config.xml
+  # 指定sql映射文件位置
+  mapper-locations: classpath:mybatis/mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
